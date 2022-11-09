@@ -1,0 +1,15 @@
+Git Bash commands
+
+ls - list directory items
+cd - change directory
+cd .. - go back one step in directory
+pwd - confirm current location
+
+# name every repository by using --global otherwise for single use remove
+git config --global user.name "Example"
+git config --global user.email "example@example.com"
+
+# ssh keys
+ls -al ~/.ssh    - checks for existing keys
+
+
